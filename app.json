@@ -1,0 +1,23 @@
+{
+  "id": "1f6fb2df-ac4d-4fca-a53a-11fddeee6b6b",
+  "name": "BusinessCentral",
+  "publisher": "Raghubir",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
