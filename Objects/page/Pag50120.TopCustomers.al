@@ -1,4 +1,4 @@
-page 50120 TopCustomers
+page 50120 "TopCustomers"
 {
     PageType = List;
     SourceTable = TopCustomer;

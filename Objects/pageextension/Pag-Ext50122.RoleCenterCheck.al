@@ -1,4 +1,4 @@
-pageextension 50122 RoleCenterCheck extends "Order Processor Role Center"
+pageextension 50122 "RoleCenterCheck" extends "Order Processor Role Center"
 {
     actions
     {

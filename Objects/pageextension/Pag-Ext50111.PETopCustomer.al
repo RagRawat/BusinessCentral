@@ -1,4 +1,4 @@
-pageextension 50111 PETopCustomer extends "Customer List"
+pageextension 50111 "PETopCustomer" extends "Customer List"
 {
     layout
     {

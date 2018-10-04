@@ -1,4 +1,4 @@
-profile MyProfile
+profile "MyProfile"
 {
     Description = 'My Profile';
     RoleCenter = "Order Processor Role Center";

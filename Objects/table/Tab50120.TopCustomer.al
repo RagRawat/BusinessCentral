@@ -1,4 +1,4 @@
-table 50120 TopCustomer
+table 50120 "TopCustomer"
 {
     Caption = 'Top Customer';
 

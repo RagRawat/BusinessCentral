@@ -1,4 +1,4 @@
-pageextension 50110 CustAddPage extends "Customer Card"
+pageextension 50110 "CustAddPage" extends "Customer Card"
 {
   
     actions

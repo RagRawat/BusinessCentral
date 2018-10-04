@@ -1,4 +1,4 @@
-page 50102 ModifiedCustomer
+page 50102 "ModifiedCustomer"
 {
     PageType = List;
     SourceTable = customer;
